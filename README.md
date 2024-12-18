@@ -13,3 +13,5 @@ Project Objective:To develop a Python-based Student Grade Tracker application th
 ![Screenshot 2024-12-18 195022](https://github.com/user-attachments/assets/805cfbe1-45ff-463e-9e21-98de9c728de1)
 
 ![Screenshot 2024-12-18 195138](https://github.com/user-attachments/assets/8a901652-7a1d-4b25-8e80-3c2c84f31d11)
+
+![Screenshot 2024-12-18 195220](https://github.com/user-attachments/assets/c63ea8dc-8774-49c8-b114-6fbd3256f425)
